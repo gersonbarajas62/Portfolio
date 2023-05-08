@@ -48,7 +48,7 @@ I am adaptable, possess critical thinking skills, maintain a positive mindset, a
                             </div>
                             <div className="item">
                                 <img src={meter3} alt="Image" />
-                                <h5>Quick learner</h5>
+                                <h5>Quick Learner</h5>
                             </div>
                             <div className="item">
                                 <img src={meter1} alt="Image" />
